@@ -1,0 +1,18 @@
+﻿1CV8LOG(ver 2.0)
+7e6d9536-a691-4d85-9dab-718e1bfd3ab3
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-39U6570",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{4,"_$Access$_.Access",6},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",7},
+{4,"_$PerformError$_",8},
+{4,"_$InfoBase$_.DBConfigUpdateError",9}
